@@ -3,7 +3,7 @@
 <a name="tema1"/>
 
 ###  TEMA 1 | Tipos de Datos Simples
-###### Ir a [https://github.com/m0ltr3x/aprende-python-con-m0ltr3x/tree/main/TEMA_01)
+###### Ir a [TEMA_01](https://github.com/m0ltr3x/aprende-python-con-m0ltr3x/tree/main/TEMA_01)
 
 [1.](https://github.com/m0ltr3x/aprende-python-con-m0ltr3x/blob/main/TEMA_01/ejercicio1.py) Escribir un programa que muestre por pantalla la frase `¡Hola mundo!`.    
 [2.](https://github.com/m0ltr3x/aprende-python-con-m0ltr3x/blob/main/TEMA_01/ejercicio2.py) Escribir un programa que almacene la cadena ¡Hola Mundo! en una variable y luego muestre por pantalla el contenido de la variable.  
