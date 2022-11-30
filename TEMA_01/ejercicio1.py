@@ -2,4 +2,4 @@
 ##Escribir un programa que muestre por pantalla la frase `¡Hola mundo!`##
 
 
-print(" hola soy m0ltr3x")
+print("Hola mundo")
